@@ -11,6 +11,11 @@ This is an example that uses the rest-dsl to define a rest services which provid
 You will need to compile this example first:
 
 	mvn install
+	
+### Package
+You may need to package this example first:
+
+	mvn package
 
 ### Run
 To run the example type
